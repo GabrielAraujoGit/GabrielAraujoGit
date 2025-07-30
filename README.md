@@ -50,67 +50,35 @@ Busco criar soluções que combinam **simplicidade, propósito e impacto** — s
 
 ### 🚀 Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/gabriel-araujo-git/spy-cat-agency-frontend" target="_blank">
-  <img src="https://img.shields.io/badge/Spy_Cat_Agency_Frontend-%23JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-</a>
-<a href="https://github.com/gabriel-araujo-git/spy-cat-agency-backend" target="_blank">
-  <img src="https://img.shields.io/badge/Spy_Cat_Agency_Backend-%23Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-</a>  
-<br>
-**Gestão inteligente de agentes felinos** com integração a APIs externas e backend e frontend acoplado via FastAPI e Next.js.
+### 🎓 Sesi - 20 anos de Educação Básica
+🟠 `SESI_20_ANOS`, `SESI-20ANOS`  
+**Landing institucional estática celebrando os 20 anos da Educação Básica do SESI PR, com design responsivo e conteúdo limpo.**
 
 ---
 
-<a href="https://github.com/gabriel-araujo-git/sesi-20anos" target="_blank">
-  <img src="https://img.shields.io/badge/SESI_20_Anos-%23CSS-green?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-<a href="https://github.com/gabriel-araujo-git/Sesi_20_anos" target="_blank">
-  <img src="https://img.shields.io/badge/Site_Comemorativo-%23HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-<br>
-**Landing institucional estática** celebrando os 20 anos da Educação Básica do SESI PR, com design responsivo e conteúdo limpo.
+### 🤖 Chatlike
+⚫ `CHATLIKE` ![#f1e05a](https://via.placeholder.com/15/f1e05a/000000?text=+) `#JAVASCRIPT`  
+**Frontend inspirado em assistentes inteligentes, focado na experiência de chat com interface fluida e moderna.**
 
 ---
 
-<a href="https://github.com/gabriel-araujo-git/Chatlike" target="_blank">
-  <img src="https://img.shields.io/badge/Chatlike-%23JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-</a>
-<br>
-**Frontend inspirado em assistentes inteligentes**, focado na experiência de chat com interface fluida e moderna.
+### 🔐 DoubleCheckSec
+🟣 `DOUBLECHECKSEC` ![#3572A5](https://via.placeholder.com/15/3572A5/000000?text=+) `#PYTHON`  
+**Autenticação em duas etapas CLI, projetada em Python puro — simples, segura e funcional.**
 
 ---
 
-<a href="https://github.com/gabriel-araujo-git/DoubleCheckSec-" target="_blank">
-  <img src="https://img.shields.io/badge/DoubleCheckSec-%23Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<br>
-**Autenticação em duas etapas CLI**, projetada em Python puro — simples, segura e funcional.
+### 🧠 Projetos acadêmicos em C++ e Java
+⚙️ `SISTEMA_CPP` ![#f34b7d](https://via.placeholder.com/15/f34b7d/000000?text=+) `#C++`  
+📘 `XADREZ_OO`, `JAVA`, `XADREZDAORA`  
+**Projetos acadêmicos robustos, aplicando lógica, orientação a objetos e estruturas de dados em jogos e sistemas.**
 
 ---
 
-<a href="https://github.com/gabriel-araujo-git/sistema_cpp" target="_blank">
-  <img src="https://img.shields.io/badge/Sistema_CPP-%23C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-<a href="https://github.com/gabriel-araujo-git/xadrezdaora" target="_blank">
-  <img src="https://img.shields.io/badge/Xadrez_OO-%23Java-red?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-<br>
-**Projetos acadêmicos robustos**, aplicando lógica, orientação a objetos e estruturas de dados em jogos e sistemas.
+### 🎬 Fronts de cinema
+🟡 `CINEUP`, `PROJETOCINEMA` ![#e34c26](https://via.placeholder.com/15/e34c26/000000?text=+) `#HTML5` ![#f1e05a](https://via.placeholder.com/15/f1e05a/000000?text=+) `#JAVASCRIPT`  
+**Front-ends temáticos de cinema, com foco em usabilidade e estética utilizando HTML5, CSS e JS.**
 
----
-
-<a href="https://github.com/gabriel-araujo-git/cineup" target="_blank">
-  <img src="https://img.shields.io/badge/CineUP-%23HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-<a href="https://github.com/gabriel-araujo-git/projetocinema" target="_blank">
-  <img src="https://img.shields.io/badge/ProjetoCinema-%23JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-</a>
-<br>
-**Front‑ends temáticos de cinema**, com foco em usabilidade e estética utilizando HTML5, CSS e JS.
-
-</div>
 
 ---
 
