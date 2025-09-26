@@ -6,6 +6,16 @@
 
 ---
 
+## 📌 Índice
+- [Sobre Mim](#🌎-sobre-mim)
+- [Tecnologias e Ferramentas](#🧰-tecnologias-e-ferramentas)
+- [GitHub em números](#📊-github-em-números)
+- [Projetos em Destaque](#🚀-projetos-em-destaque)
+- [O que estou aprendendo](#📚-o-que-estou-aprendendo)
+- [Vamos Conversar](#📬-vamos-conversar)
+
+---
+
 ### 🌎 Sobre Mim
 
 Sou movido pela curiosidade e por uma vontade genuína de **resolver problemas com tecnologia**.  
@@ -48,37 +58,49 @@ Busco criar soluções que combinam **simplicidade, propósito e impacto** — s
 
 ---
 
-### 🚀 Projetos em Destaque
-
-### 🎓 Sesi - 20 anos de Educação Básica
-🟠 `SESI_20_ANOS`, `SESI-20ANOS`  
-**Landing institucional estática celebrando os 20 anos da Educação Básica do SESI PR, com design responsivo e conteúdo limpo.**
-
----
+## 🚀 Projetos em Destaque
 
 ### 🤖 Chatlike
-⚫ `CHATLIKE` ![#f1e05a](https://via.placeholder.com/15/f1e05a/000000?text=+) `#JAVASCRIPT`  
-**Frontend inspirado em assistentes inteligentes, focado na experiência de chat com interface fluida e moderna.**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
+Frontend inspirado em assistentes inteligentes, com foco em **UX de conversas fluidas**.  
+💡 Criado para explorar interfaces modernas de chat e servir como base para futuros sistemas corporativos.
 
 ---
 
 ### 🔐 DoubleCheckSec
-🟣 `DOUBLECHECKSEC` ![#3572A5](https://via.placeholder.com/15/3572A5/000000?text=+) `#PYTHON`  
-**Autenticação em duas etapas CLI, projetada em Python puro — simples, segura e funcional.**
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)  
+Autenticação em duas etapas via CLI, feita em **Python puro**.  
+🎯 Combinação de **simplicidade e segurança** em um projeto direto e funcional.
 
 ---
 
-### 🧠 Projetos acadêmicos em C++ e Java
-⚙️ `SISTEMA_CPP` ![#f34b7d](https://via.placeholder.com/15/f34b7d/000000?text=+) `#C++`  
-📘 `XADREZ_OO`, `JAVA`, `XADREZDAORA`  
-**Projetos acadêmicos robustos, aplicando lógica, orientação a objetos e estruturas de dados em jogos e sistemas.**
+### 🎓 SESI — 20 anos de Educação Básica
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+Landing page institucional estática, **celebrando duas décadas de educação**.  
+📱 **Design responsivo e conteúdo limpo**, desenvolvido para comunicação clara e impactante.
 
 ---
 
-### 🎬 Fronts de cinema
-🟡 `CINEUP`, `PROJETOCINEMA` ![#e34c26](https://via.placeholder.com/15/e34c26/000000?text=+) `#HTML5` ![#f1e05a](https://via.placeholder.com/15/f1e05a/000000?text=+) `#JAVASCRIPT`  
-**Front-ends temáticos de cinema, com foco em usabilidade e estética utilizando HTML5, CSS e JS.**
+### 🎬 Fronts de Cinema
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
+Séries de front-ends temáticos com foco em **usabilidade e estética**, explorando HTML, CSS e JavaScript.
 
+---
+
+### 🧠 Projetos Acadêmicos
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+Projetos robustos aplicando **lógica, orientação a objetos e estruturas de dados** em jogos e sistemas.
+
+---
+
+### 📚 O que estou aprendendo
+
+- Avançando em **FastAPI** e arquitetura de microservices  
+- Exploração de **IA Generativa** em projetos full-stack  
+- DevOps básico com **GCP** e containers  
+- Melhoria contínua em **React** e **TypeScript**
 
 ---
 
@@ -95,5 +117,4 @@ Busco criar soluções que combinam **simplicidade, propósito e impacto** — s
 
 ---
 
-> “**Não busco ser apenas mais um dev. Quero ser aquele que faz a diferença.**”  
-
+> “**Não busco ser apenas mais um dev. Quero ser aquele que faz a diferença.**”
