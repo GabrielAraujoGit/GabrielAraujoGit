@@ -13,7 +13,6 @@
 - [Projetos em Destaque](#🚀-projetos-em-destaque)
 - [O que estou aprendendo](#📚-o-que-estou-aprendendo)
 - [Vamos Conversar](#📬-vamos-conversar)
-
 ---
 
 ### 🌎 Sobre Mim
