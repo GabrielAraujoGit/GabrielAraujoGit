@@ -25,12 +25,12 @@
 
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=dracula&locale=pt-br&count_private=true" media="(prefers-color-scheme: dark)"/>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&locale=pt-br&count_private=true" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=dracula&locale=pt-br&count_private=true&cache_seconds=1" media="(prefers-color-scheme: dark)"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&locale=pt-br&count_private=true&cache_seconds=1" />
   </picture>
 
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=dracula&locale=pt-br&count_private=true" media="(prefers-color-scheme: dark)"/>
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&locale=pt-br" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=dracula&locale=pt-br&count_private=true&cache_seconds=1" media="(prefers-color-scheme: dark)"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&locale=pt-br&count_private=true&cache_seconds=1" />
   </picture>
 </div>
