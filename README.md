@@ -20,9 +20,6 @@
 </div>
 
 ---
-
-### 📊 GitHub em números
-
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=dracula&locale=pt-br&count_private=true&cache_seconds=1" media="(prefers-color-scheme: dark)"/>
