@@ -7,6 +7,7 @@
 ---
 
 ### 🧰 Tecnologias e Ferramentas
+
 <div align="center">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -19,32 +20,14 @@
 </div>
 
 ---
-
-### 📊 Estatísticas do GitHub
 <div align="center">
-
   <picture>
-    <source 
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source 
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-    />
-    <img height="160" alt="Estatísticas do GitHub de Gabriel Araújo" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabriel-araujo-git&show_icons=true&count_private=true&hide_border=true"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=dracula&locale=pt-br&count_private=true&cache_seconds=1" media="(prefers-color-scheme: dark)"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&locale=pt-br&count_private=true&cache_seconds=1" />
   </picture>
 
   <picture>
-    <source 
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=dracula&langs_count=8&hide_border=true"
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source 
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=default&langs_count=8&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-    />
-    <img height="160" alt="Linguagens mais usadas por Gabriel Araújo" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&langs_count=8&hide_border=true"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=dracula&locale=pt-br&count_private=true&cache_seconds=1" media="(prefers-color-scheme: dark)"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&locale=pt-br&count_private=true&cache_seconds=1" />
   </picture>
-
 </div>
