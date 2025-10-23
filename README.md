@@ -25,26 +25,26 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats-git-main-anan121.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
     media="(prefers-color-scheme: dark)" 
   />
   <source 
-    srcset="https://github-readme-stats-git-main-anan121.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
   />
-  <img height="160" alt="Estatísticas do GitHub de Gabriel Araújo" src="https://github-readme-stats-git-main-anan121.vercel.app/api?username=gabriel-araujo-git&show_icons=true&count_private=true&hide_border=true"/>
+  <img height="160" alt="Estatísticas do GitHub de Gabriel Araújo" src="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&count_private=true&hide_border=true"/>
 </picture>
 
 <picture>
   <source 
-    srcset="https://github-readme-stats-git-main-anan121.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=dracula&langs_count=8&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=dracula&langs_count=8&hide_border=true"
     media="(prefers-color-scheme: dark)" 
   />
   <source 
-    srcset="https://github-readme-stats-git-main-anan121.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=default&langs_count=8&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=default&langs_count=8&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
   />
-  <img height="160" alt="Linguagens mais usadas por Gabriel Araújo" src="https://github-readme-stats-git-main-anan121.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&langs_count=8&hide_border=true"/>
+  <img height="160" alt="Linguagens mais usadas por Gabriel Araújo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&langs_count=8&hide_border=true"/>
 </picture>
 
 </div>
