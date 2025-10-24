@@ -37,7 +37,7 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=dracula&langs_count=8&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=dracula&langs_count=12&hide_border=true"
     media="(prefers-color-scheme: dark)" 
   />
   <source 
