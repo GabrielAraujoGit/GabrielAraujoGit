@@ -23,7 +23,7 @@
 
 ## Sobre
 
-Sou **Desenvolvedor Full Stack** com mais de **2 anos de experiência profissional** e **5 anos de trajetória técnica**.  
+**Desenvolvedor Full Stack** com mais de **2 anos de experiência profissional** e **5 anos de trajetória técnica**.  
 Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza de arquitetura e impacto real**.  
 
 💡 Especialista em **Python, Node.js e React**, apaixonado por criar sistemas **modulares, elegantes e úteis**.  
