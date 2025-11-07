@@ -21,7 +21,7 @@
 
 ---
 
-## 🧩 Sobre
+## Sobre
 
 Sou **Desenvolvedor Full Stack** com mais de **2 anos de experiência profissional** e **5 anos de trajetória técnica**.  
 Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza de arquitetura e impacto real**.  
@@ -33,7 +33,7 @@ Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza d
 
 ---
 
-## 🦊 Projeto em Destaque
+## Projeto em Destaque
 
 <div align="center">
   <a href="https://github.com/gabriel-araujo-git/lynx-assistant">
