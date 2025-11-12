@@ -1,7 +1,8 @@
 <!-- Banner central -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Lynx%20Assistant-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Open%20Source-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Lynx%20Assistant-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Desktop%20Automation-%23282828.svg?style=for-the-badge&logo=windowsterminal&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Open%20Source-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="32"/>
 </div>
 
 <h1 align="center">Gabriel Araújo</h1>
@@ -21,39 +22,39 @@
 
 ---
 
-## Sobre
+## ▌Sobre
 
 **Desenvolvedor Full Stack** com mais de **2 anos de experiência profissional** e **5 anos de trajetória técnica**.  
-Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza de arquitetura e impacto real**.  
+Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza de arquitetura e impacto real**.
 
-💡 Especialista em **Python, Node.js e React**, apaixonado por criar sistemas **modulares, elegantes e úteis**.  
-🧱 Foco atual: **engenharia de produtividade**, **design de ferramentas dev-friendly** e **automação de fluxos**.  
+> **Especialidade:** Python, Node.js e React  
+> **Foco atual:** Engenharia de produtividade, design de ferramentas dev-friendly e automação de fluxos.  
 
-> "Código não é sobre escrever — é sobre criar algo que permanece."
+> “Código não é sobre escrever — é sobre criar algo que permanece.”
 
 ---
 
-## Projeto em Destaque
+## ▌Projeto em Destaque
 
 <div align="center">
   <a href="https://github.com/gabriel-araujo-git/lynx-assistant">
-    <img src="https://img.shields.io/badge/Lynx%20Assistant-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Lynx%20Assistant-black.svg?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   </a>
 </div>
 
-> Um assistente open source criado para **transformar comandos em ações inteligentes**.  
-> Feito em **Python (CustomTkinter + PyStray)**, com arquitetura **engine + UI modular** e estrutura preparada para contribuições.
+> **Lynx Assistant** é um assistente open source criado para **transformar comandos em ações inteligentes**.  
+> Desenvolvido em **Python (CustomTkinter + PyStray)** com arquitetura **Engine + UI modular** e estrutura extensível.
 
-| Característica | Descrição |
-|:----------------|:-----------|
-| 🔧 **Stack** | Python, CustomTkinter, Subprocess, Webbrowser |
-| 🧠 **Arquitetura** | `CommandEngine` modular e extensível |
-| ⚙️ **Diferenciais** | CI, documentação, e design orientado a UX dev |
-| 🌍 **Visão** | Ferramenta aberta, voltada à produtividade e automação pessoal |
+| Categoria | Descrição |
+|:-----------|:-----------|
+| <img src="https://img.shields.io/badge/Stack-blue?style=flat-square"/> | Python, CustomTkinter, Subprocess, Webbrowser |
+| <img src="https://img.shields.io/badge/Arquitetura-gray?style=flat-square"/> | Engine modular e extensível |
+| <img src="https://img.shields.io/badge/Diferenciais-black?style=flat-square"/> | CI, documentação e design orientado a desenvolvedores |
+| <img src="https://img.shields.io/badge/Visão-green?style=flat-square"/> | Ferramenta aberta, voltada à produtividade e automação pessoal |
 
 ---
 
-## 🧠 Stack & Ferramentas
+## ▌Stack & Ferramentas
 
 <div align="center">
 
@@ -75,17 +76,17 @@ Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza d
 
 ---
 
-## 🧭 Filosofia de Desenvolvimento
+## ▌Filosofia de Desenvolvimento
 
-> “Boas soluções são invisíveis — funcionam antes de você perceber que precisaria delas.”
+> **Boas soluções são invisíveis — funcionam antes de você perceber que precisaria delas.**
 
-📌 Clareza acima de abstração.  
-📌 Escalabilidade sem complexidade desnecessária.  
-📌 Ferramentas que servem pessoas, não processos.
+- **Clareza acima de abstração**  
+- **Escalabilidade sem complexidade desnecessária**  
+- **Ferramentas que servem pessoas, não processos**
 
 ---
 
-## 📊 Insights
+## ▌Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
@@ -95,5 +96,6 @@ Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza d
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build%20Fast-Think%20Slow-000000?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/BUILD-FAST-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/THINK-SLOW-1A1A1A?style=for-the-badge"/>
 </p>
