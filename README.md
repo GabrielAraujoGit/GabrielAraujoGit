@@ -87,11 +87,12 @@ Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza d
 ---
 
 ## ▌Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://streak-stats.demolab.com?user=gabriel-araujo-git&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-araujo-git&theme=tokyonight" height="160"/>
 </div>
+
+
 
 ---
 
