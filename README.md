@@ -30,8 +30,6 @@ Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza d
 > **Especialidade:** Python, Node.js e React  
 > **Foco atual:** Engenharia de produtividade, design de ferramentas dev-friendly e automação de fluxos.  
 
-> “Código não é sobre escrever — é sobre criar algo que permanece.”
-
 ---
 
 ## ▌Projeto em Destaque
