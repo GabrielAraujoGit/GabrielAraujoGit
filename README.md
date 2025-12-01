@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="32"/>
 </div>
 
+
 <h1 align="center">Gabriel Araujo</h1>
 
 <p align="center">
