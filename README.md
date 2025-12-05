@@ -25,10 +25,8 @@
 
 ## ▌Sobre
 
-**Desenvolvedor Full Stack** com mais de **2 anos de experiência profissional** e **5 anos de trajetória técnica**.  
-Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza de arquitetura e impacto real**.
+**Desenvolvedor Full Stack com atuação sólida em backend, automação e interfaces, sempre priorizando arquiteturas claras, soluções escaláveis e impacto real no uso diário.**.
 
-> **Especialidade:** Python, Node.js e React  
 > **Foco atual:** Engenharia de produtividade, design de ferramentas dev-friendly e automação de fluxos.  
 
 ---
