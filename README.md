@@ -64,6 +64,11 @@ Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza d
 <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" height="25"/>
 
+<!-- .NET Stack -->
+<img src="https://img.shields.io/badge/C%23-512BD4.svg?logo=csharp&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Visual%20Basic-512BD4.svg?logo=visualbasic&logoColor=white" height="25"/>
+
 <!-- Infra & Tools -->
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" height="25"/>
@@ -72,6 +77,7 @@ Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza d
 <img src="https://img.shields.io/badge/VSCODE-007ACC.svg?logo=visualstudiocode&logoColor=white" height="25"/>
 
 </div>
+
 
 ---
 
