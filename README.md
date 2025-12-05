@@ -57,24 +57,20 @@ Atuo entre **backend, automação e interfaces**, sempre com foco em **clareza d
 
 <div align="center">
 
-<!-- Linguagens -->
-<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" height="25"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<!-- .NET Stack -->
-<img src="https://img.shields.io/badge/C%23-512BD4.svg?logo=csharp&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Visual%20Basic-512BD4.svg?logo=visualbasic&logoColor=white" height="25"/>
-
-<!-- Infra & Tools -->
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/VSCODE-007ACC.svg?logo=visualstudiocode&logoColor=white" height="25"/>
 
 </div>
 
