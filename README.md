@@ -87,8 +87,11 @@
 
 ## ▌Insights
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://streak-stats.demolab.com?user=gabriel-araujo-git&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-araujo-git&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.vercel.app?user=GabrielAraujoGit&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielAraujoGit&theme=tokyonight" height="160"/>
+
+
+
 </div>
 
 
