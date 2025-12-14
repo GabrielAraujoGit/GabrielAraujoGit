@@ -1,4 +1,4 @@
-<!-- Banner central -->
+
 <div align="center">
   <img src="https://img.shields.io/badge/Lynx%20Assistant-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Desktop%20Automation-%23282828.svg?style=for-the-badge&logo=windowsterminal&logoColor=white" height="32"/>
