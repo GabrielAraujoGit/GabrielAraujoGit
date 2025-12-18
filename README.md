@@ -1,329 +1,309 @@
+# <div align="center">
+
+![Matrix SVG](https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=200&section=header&text=GABRIEL%20ARAUJO&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20AUTOMATION%20ARCHITECT&descSize=20&descAlignY=55)
+
+</div>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=GABRIEL%20ARAUJO&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20CODE%20ARCHITECT&descAlignY=55&descAlign=50"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=100&lines=%3E+INITIALIZING+SYSTEM+PROTOCOLS...;%3E+LOADING+AUTOMATION+MODULES...;%3E+ESTABLISHING+SECURE+CONNECTION...;%3E+AI-ASSISTED+WORKFLOWS+ONLINE;%3E+PRODUCTION+ENVIRONMENT+READY;%3E+TRACEABILITY+LAYER+ACTIVE;%3E+BUILDING+RELIABLE+SYSTEMS...;%3E+CODE+IS+LAW.+LOGS+ARE+TRUTH.)](https://git.io/typing-svg)
+
+</div>
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗             ║
-║  ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║             ║
-║  ██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║             ║
-║  ██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║             ║
-║  ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗        ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝        ║
-║                                                               ║
-║            >> GABRIEL_ARAUJO_GIT // ID: 0xGABE <<             ║
-║              DESENVOLVEDOR FULL-STACK ARCHITECT               ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗                            ║
+║  ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║                            ║
+║  ██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║                            ║
+║  ██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║                            ║
+║  ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗                       ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝                       ║
+║                                                                              ║
+║   █████╗ ██████╗  █████╗ ██╗   ██╗     ██╗ ██████╗                         ║
+║  ██╔══██╗██╔══██╗██╔══██╗██║   ██║     ██║██╔═══██╗                        ║
+║  ███████║██████╔╝███████║██║   ██║     ██║██║   ██║                        ║
+║  ██╔══██║██╔══██╗██╔══██║██║   ██║██   ██║██║   ██║                        ║
+║  ██║  ██║██║  ██║██║  ██║╚██████╔╝╚█████╔╝╚██████╔╝                        ║
+║  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚════╝  ╚═════╝                         ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=INICIALIZANDO+SISTEMAS...;CARREGANDO+PROTOCOLOS+DE+SEGURANÇA...;ACESSO+CONCEDIDO+✓;BEM-VINDO+AO+TERMINAL+NEURAL;DESENVOLVENDO+O+FUTURO+UMA+LINHA+POR+VEZ..." alt="Typing SVG" />
+<div align="center">
 
-<br/>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### `[SYSTEM STATUS]` → **OPERATIONAL** ✓
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
 
 ---
 
-## 🌐 `[TRANSMISSÃO ATIVA]` Protocolo de Identificação
-
-```javascript
-const gabrielAraujo = {
-    status: "🟢 OPERACIONAL",
-    tipo: "Software Engineer & Code Architect",
-    origem: "Brasil 🇧🇷 // Conectado ao Grid Global",
-    missao: "Transformar ideias em soluções através do código",
-    especialidade: [
-        "Full-Stack Development",
-        "Arquitetura de Software",
-        "API Design & Integration",
-        "Cloud Computing & DevOps"
-    ],
-    experiencia: "Building the future, one commit at a time",
-    nivel_acesso: "FULL_STACK_MASTER"
-};
-```
+## 🟢 CORE.PROTOCOL
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ⚡ FREQUÊNCIAS ATIVAS ⚡
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=00F7F7&background=0D111700&center=true&vCenter=true&random=false&width=600&lines=Backend+%7C%7C+Frontend+%7C%7C+DevOps;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+AWS+%E2%80%A2+CI%2FCD;Always+learning%2C+always+evolving...+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-</div>
-
-<div align="center">
-
-### 🎯 STATUS DO SISTEMA 🎯
-
-<img src="https://img.shields.io/badge/STATUS-🟢_ONLINE-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/CODE_MODE-💻_ACTIVE-00d4ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/COFFEE-☕_BREWING-ff00ff?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=0d1117"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-## 🔮 MATRIZ DE HABILIDADES // TECH ARSENAL
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<details open>
-<summary><b>💎 Core Technologies - Linguagens & Frameworks</b></summary>
-<br>
-
-<div align="center">
-
-```yaml
-[LINGUAGENS_PRIMÁRIAS]
-├─ JavaScript/TypeScript ████████████░ 95%
-├─ Java ████████████░ 90%
-├─ Python ██████████░░ 80%
-└─ SQL ███████████░ 85%
-
-[FRAMEWORKS_BACKEND]
-├─ Node.js + Express ████████████░ 95%
-├─ Spring Boot ███████████░ 90%
-└─ NestJS ██████████░░ 75%
-
-[FRAMEWORKS_FRONTEND]  
-├─ React.js ████████████░ 90%
-├─ Next.js ███████████░ 85%
-└─ Angular ██████████░░ 70%
-```
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,java,spring,python,express,nestjs,angular,html,css,tailwind&perline=7&theme=dark" />
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Storage - Persistência de Dados</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" />
 
 ```python
-databases = {
-    "relational": ["PostgreSQL", "MySQL", "Oracle"],
-    "nosql": ["MongoDB", "Redis", "DynamoDB"],
-    "cache": ["Redis", "Memcached"],
-    "orm": ["Prisma", "TypeORM", "Hibernate", "JPA"]
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class SystemArchitect:
+    """
+    ┌─────────────────────────────────────────────────────────┐
+    │  AUTOMATION-FIRST ENGINEERING PROTOCOL                  │
+    │  VERSION: 2025.PRODUCTION                               │
+    │  STATUS: ACTIVE                                         │
+    └─────────────────────────────────────────────────────────┘
+    """
+    
+    def __init__(self):
+        self.identity = {
+            "name": "Gabriel Araújo",
+            "role": "Software Engineer",
+            "specialization": "Automation Systems Architect",
+            "github": "@GabrielAraujoGit"
+        }
+        
+        self.core_philosophy = [
+            "🎯 Predictability: Zero surprises in production",
+            "🔍 Traceability: Every byte logged, every action audited",
+            "🛡️ Reliability: Systems that don't fail, or fail gracefully",
+            "📐 Explicitness: Code that speaks, no magic allowed"
+        ]
+    
+    def primary_stack(self) -> dict:
+        return {
+            "automation_core": {
+                "language": "Python",
+                "frameworks": ["FastAPI", "Flask"],
+                "purpose": "System validation, internal tools, AI/NLP workflows"
+            },
+            "integration_layer": {
+                "language": "JavaScript/Node.js",
+                "purpose": "Bots, integrations, controlled backend services"
+            },
+            "data_persistence": {
+                "database": "SQL (PostgreSQL)",
+                "focus": "Data consistency, explicit behavior"
+            },
+            "enterprise_systems": {
+                "platforms": ["Infor LN", "Baan 4GL"],
+                "approach": "Production-grade extensions with versioning"
+            },
+            "ai_integration": {
+                "domains": ["NLP", "AI-Assisted Solutions"],
+                "priority": "Full traceability and controlled outputs"
+            }
+        }
+    
+    def execute(self):
+        """
+        > BUILDING SYSTEMS THAT MATTER
+        > WRITING CODE THAT LASTS
+        > ENGINEERING FOR REALITY
+        """
+        return "Production-grade software, always."
+```
+
+</div>
+
+---
+
+## ⚡ TECHNOLOGY.MATRIX
+
+<div align="center">
+
+### `>>> LOADING MODULES...`
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**AUTOMATION CORE**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF00)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF00)
+
+</td>
+<td align="center" width="25%">
+
+**INTEGRATION**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00)
+
+</td>
+<td align="center" width="25%">
+
+**DATA LAYER**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF00)
+
+</td>
+<td align="center" width="25%">
+
+**DEVOPS**
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00)
+
+</td>
+</tr>
+</table>
+
+[![](https://img.shields.io/badge/AI%2FNLP-000000?style=for-the-badge&logoColor=00FF00)]()
+[![](https://img.shields.io/badge/Infor%20LN-000000?style=for-the-badge&logoColor=00FF00)]()
+[![](https://img.shields.io/badge/Baan%204GL-000000?style=for-the-badge&logoColor=00FF00)]()
+[![](https://img.shields.io/badge/ERP%20Systems-000000?style=for-the-badge&logoColor=00FF00)]()
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+</div>
+
+---
+
+## 📊 SYSTEM.METRICS
+
+<div align="center">
+
+```
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   ███╗   ███╗███████╗████████╗██████╗ ██╗ ██████╗███████╗       │
+│   ████╗ ████║██╔════╝╚══██╔══╝██╔══██╗██║██╔════╝██╔════╝       │
+│   ██╔████╔██║█████╗     ██║   ██████╔╝██║██║     ███████╗       │
+│   ██║╚██╔╝██║██╔══╝     ██║   ██╔══██╗██║██║     ╚════██║       │
+│   ██║ ╚═╝ ██║███████╗   ██║   ██║  ██║██║╚██████╗███████║       │
+│   ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝╚══════╝       │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielAraujoGit&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAraujoGit&theme=chartreuse-dark&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&dates=00FF00&sideLabels=00FF00&border=00FF00&hide_border=false" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAraujoGit&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00&hide_border=false" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAraujoGit&theme=green-dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=false" width="98%" />
+
+</div>
+
+---
+
+## 🎯 ENGINEERING.MANIFESTO
+
+<div align="center">
+
+```diff
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@                                                                  @
+@  ┌────────────────────────────────────────────────────────┐     @
+@  │  PRINCIPLES OF PRODUCTION-GRADE ENGINEERING            │     @
+@  └────────────────────────────────────────────────────────┘     @
+@                                                                  @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
++ [EXPLICIT > IMPLICIT]
+  └─> Code contracts are sacred. No hidden behavior. No magic.
+
++ [OBSERVABILITY FIRST]
+  └─> If it's not logged, it didn't happen. Trace everything.
+
++ [FAILURE-AWARE DESIGN]
+  └─> Systems fail. Design for it. Recover gracefully. Learn constantly.
+
++ [DATA CONSISTENCY]
+  └─> SQL transactions are law. ACID properties are non-negotiable.
+
++ [LIGHTWEIGHT FRAMEWORKS]
+  └─> Use tools, don't worship them. Framework serves code, not vice versa.
+
++ [PRODUCTION-GRADE ALWAYS]
+  └─> Version everything. Document everything. Test like it matters.
+
++ [LONG-TERM THINKING]
+  └─> Code lives longer than you think. Maintain accordingly.
+
+- [NO COWBOY CODING]
+- [NO UNDOCUMENTED MAGIC]
+- [NO TECHNICAL DEBT IGNORED]
+```
+
+</div>
+
+---
+
+## 🌐 ACTIVE.OPERATIONS
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=%E2%96%B6+Building+automation-first+internal+tools;%E2%96%B6+Designing+AI-assisted+traceable+workflows;%E2%96%B6+Implementing+production-grade+ERP+extensions;%E2%96%B6+Architecting+failure-aware+distributed+systems;%E2%96%B6+Maintaining+SQL-driven+consistency+layers)](https://git.io/typing-svg)
+
+</div>
+
+```python
+current_focus = {
+    "automation": [
+        "Internal tooling with FastAPI",
+        "System validation frameworks",
+        "AI-assisted workflow automation"
+    ],
+    "enterprise": [
+        "Infor LN (Baan 4GL) extensions",
+        "ERP integration layers",
+        "Production-grade system scripts"
+    ],
+    "infrastructure": [
+        "SQL database optimization",
+        "Data consistency enforcement",
+        "Observability and monitoring"
+    ],
+    "ai_integration": [
+        "NLP-based automation",
+        "Traceable AI workflows",
+        "Controlled model outputs"
+    ]
 }
+
+def mission_statement():
+    return """
+    Building systems that work in production.
+    Writing code that lasts beyond the sprint.
+    Engineering solutions that matter.
+    """
 ```
-
-</div>
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud & DevOps - Infraestrutura Cyber</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,gitlab,jenkins,nginx&theme=dark" />
-
-| FERRAMENTA | PROFICIÊNCIA | STATUS |
-|------------|--------------|--------|
-| `Docker` | ████████████ | ⚡ Expert |
-| `Kubernetes` | ██████████░░ | 🔥 Advanced |
-| `AWS` | ██████████░░ | ☁️ Cloud Ready |
-| `CI/CD` | ███████████░ | 🚀 Automated |
-| `Git/GitHub` | ████████████ | 💯 Master |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🛠️ Tools & Environment - Arsenal Completo</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,linux,bash,vim&theme=dark" />
-
-```javascript
-const devEnvironment = {
-    editor: "VSCode with extensions++",
-    terminal: "Oh My Zsh + PowerLevel10k",
-    os: ["Windows 11", "Linux/Ubuntu", "WSL2"],
-    versionControl: "Git + GitHub Flow",
-    testing: ["Jest", "JUnit", "Cypress"],
-    other: ["Postman", "Insomnia", "DBeaver"]
-};
-```
-
-</div>
-
-</details>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
 
 ---
 
-## 📡 MÉTRICAS DO SISTEMA // GITHUB ANALYTICS
+## 🔗 CONNECTION.PROTOCOL
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-```ascii
-╔════════════════════════════════════════════════════════════════╗
-║  >> ACESSANDO BANCO DE DADOS...                               ║
-║  >> SINCRONIZANDO COM SERVIDORES GITHUB...                    ║
-║  >> CARREGANDO ESTATÍSTICAS...                                ║
-║  >> [████████████████████████████████] 100% COMPLETO          ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielAraujoGit&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_radius=10" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAraujoGit&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&border_radius=10" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAraujoGit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAraujoGit&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ffff&line=ff00ff&point=00ff00&area=true&custom_title=Contribution%20Graph&radius=10&height=300" alt="Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GabrielAraujoGit&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-## 🚀 PROJETOS DESTACADOS // FEATURED REPOS
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-```ascii
-┌────────────────────────────────────────────────────────────────┐
-│  >> ESCANEANDO REPOSITÓRIOS...                                │
-│  >> IDENTIFICANDO PROJETOS CRÍTICOS...                        │
-│  >> CLASSIFICAÇÃO: HIGH-PRIORITY                              │
-│  >> [████████████████████████████] 100% SCAN COMPLETO         │
-└────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<!-- Substitua pelos seus repositórios reais -->
-<div align="center">
-
-<a href="https://github.com/GabrielAraujoGit/projeto1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielAraujoGit&repo=projeto1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_radius=10" />
-</a>
-<a href="https://github.com/GabrielAraujoGit/projeto2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielAraujoGit&repo=projeto2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_radius=10" />
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-## 💬 CANAIS DE COMUNICAÇÃO // CONNECT WITH ME
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  >> INICIALIZANDO PROTOCOLOS DE COMUNICAÇÃO...          ┃
-┃  >> CANAIS DISPONÍVEIS: 5                               ┃
-┃  >> STATUS: 🟢 TODOS OS SISTEMAS OPERACIONAIS           ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  > ESTABLISHING SECURE CONNECTION...                         │
+│  > PROTOCOL: TLS 1.3                                         │
+│  > ENCRYPTION: AES-256                                       │
+│  > HANDSHAKE: COMPLETE                                       │
+│  > STATUS: [READY]                                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/GabrielAraujoGit)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/GabrielAraujoGit)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF00)](https://your-portfolio.com)
 
-<a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/seu-twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" alt="Twitter"/>
-</a>
-<a href="mailto:seu-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-</a>
-<a href="https://seu-portfolio.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
-</a>
-<a href="https://dev.to/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0d1117" alt="Dev.to"/>
-</a>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-<div align="center">
-
-### 🌌 FLUXO DE CONTRIBUIÇÕES // CONTRIBUTION ACTIVITY
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAraujoGit&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff00ff&point=00ff00&area=true&hide_border=true&custom_title=💻%20Contribution%20Timeline%20%7C%20Building%20the%20Future&radius=10" width="95%" alt="Contribution Graph"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAraujoGit/GabrielAraujoGit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAraujoGit/GabrielAraujoGit/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielAraujoGit/GabrielAraujoGit/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 ESTATÍSTICAS SEMANAIS // WEEKLY STATS
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GabrielAraujoGit&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_radius=10&layout=compact" alt="WakaTime Stats"/>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
 
@@ -332,23 +312,29 @@ const devEnvironment = {
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  "No limite entre o código e a consciência,               ║
-║   onde algoritmos dançam com a realidade,                 ║
-║   eu construo o futuro, uma linha por vez."               ║
-║                                                            ║
-║                          - USUARIO_001                     ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+████████████████████████████████████████████████████████████████████████████
+█                                                                          █
+█  ╔══════════════════════════════════════════════════════════════════╗  █
+█  ║                                                                  ║  █
+█  ║    "In production, there are no second chances.                 ║  █
+█  ║     Design for failure. Build for reliability.                  ║  █
+█  ║     Document for humans. Test like machines.                    ║  █
+█  ║     Code is temporary. Systems are forever."                    ║  █
+█  ║                                                                  ║  █
+█  ║                           - The Engineer's Oath                 ║  █
+█  ║                                                                  ║  █
+█  ╚══════════════════════════════════════════════════════════════════╝  █
+█                                                                          █
+████████████████████████████████████████████████████████████████████████████
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=TRANSMISSÃO%20ENCERRADA&fontSize=30&fontColor=00ffff&animation=twinkling"/>
+### ⚡ POWERED BY
 
-![](https://komarev.com/ghpvc/?username=usuario001&color=00ffff&style=for-the-badge&label=ACESSOS+AO+SISTEMA)
+`[PYTHON]` • `[AUTOMATION]` • `[RELIABILITY]` • `[PRODUCTION-GRADE CODE]`
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=GabrielAraujoGit&color=00FF00&style=for-the-badge&label=SYSTEM+ACCESS+COUNT)
+![GitHub followers](https://img.shields.io/github/followers/GabrielAraujoGit?color=00FF00&logo=github&style=for-the-badge&label=NETWORK+NODES)
 
-**`[SISTEMA DESCONECTANDO...]`** • **`[CACHE LIMPO]`** • **`[ATÉ A PRÓXIMA SINCRONIZAÇÃO]`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF00&height=120&section=footer" width="100%"/>
 
 </div>
