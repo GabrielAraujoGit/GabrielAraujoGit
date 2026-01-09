@@ -1,104 +1,155 @@
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Lynx%20Assistant-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Desktop%20Automation-%23282828.svg?style=for-the-badge&logo=windowsterminal&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Open%20Source-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Automation--First-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend%20Engineering-1A1A1A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
 </div>
-
 
 <h1 align="center">Gabriel Araujo</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> · Construindo soluções que unem <i>performance, clareza e propósito</i>.<br/>
+  <b>Software Engineer (Backend & Automation)</b><br/>
+  Construindo sistemas confiáveis, ferramentas de produtividade e automações
+  pensadas para uso real em produção.
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/gabrielaraujo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/gabriel-araujo-git">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" height="20"/>
+  <a href="https://github.com/GabrielAraujoGit">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
   <a href="mailto:gabriel@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ▌Sobre
+## TL;DR
 
-**Desenvolvedor Full Stack com atuação sólida em backend, automação e interfaces, sempre priorizando arquiteturas claras, soluções escaláveis e impacto real no uso diário.**.
-
-> **Foco atual:** Engenharia de produtividade, design de ferramentas dev-friendly e automação de fluxos.  
-
----
-
-## ▌Projeto em Destaque
-
-<div align="center">
-  <a href="https://github.com/gabriel-araujo-git/lynx-assistant">
-    <img src="https://img.shields.io/badge/Lynx%20Assistant-black.svg?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  </a>
-</div>
-
-> **Lynx Assistant** é um assistente open source criado para **transformar comandos em ações inteligentes**.  
-> Desenvolvido em **Python (CustomTkinter + PyStray)** com arquitetura **Engine + UI modular** e estrutura extensível.
-
-| Categoria | Descrição |
-|:-----------|:-----------|
-| <img src="https://img.shields.io/badge/Stack-blue?style=flat-square"/> | Python, CustomTkinter, Subprocess, Webbrowser |
-| <img src="https://img.shields.io/badge/Arquitetura-gray?style=flat-square"/> | Engine modular e extensível |
-| <img src="https://img.shields.io/badge/Diferenciais-black?style=flat-square"/> | CI, documentação e design orientado a desenvolvedores |
-| <img src="https://img.shields.io/badge/Visão-green?style=flat-square"/> | Ferramenta aberta, voltada à produtividade e automação pessoal |
+- Backend-focused Software Engineer with strong automation background  
+- Experience building **production systems**, internal tools and ERP extensions  
+- Preference for **clarity, reliability and predictable technology**
 
 ---
 
-## ▌Stack & Ferramentas
+## Sobre
 
-<div align="center">
+Sou um **engenheiro de software com atuação sólida em backend e automação**, focado
+em criar soluções que sejam **simples de entender, fáceis de manter e confiáveis em produção**.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+Trabalho com sistemas usados diariamente, onde:
+- falhas precisam ser previsíveis  
+- comportamento deve ser explícito  
+- manutenção importa mais que novidade  
 
-
-</div>
-
+**Foco atual:** engenharia de produtividade, automação de fluxos e ferramentas
+voltadas a desenvolvedores.
 
 ---
 
-## ▌Filosofia de Desenvolvimento
+## Projeto em Destaque
 
-> **Boas soluções são invisíveis — funcionam antes de você perceber que precisaria delas.**
+### Lynx Assistant
+> Assistente open source para **transformar comandos em ações inteligentes no desktop**.
 
-- **Clareza acima de abstração**  
-- **Escalabilidade sem complexidade desnecessária**  
-- **Ferramentas que servem pessoas, não processos**
+- Desenvolvido em **Python**
+- Arquitetura **Engine + UI** modular e extensível
+- Pensado para automação local, produtividade e controle explícito
+
+**Características técnicas:**
+- Separação clara de responsabilidades
+- Fácil extensão de comandos
+- Documentação e estrutura orientadas a desenvolvedores
+
+🔗 Repositório:  
+https://github.com/gabriel-araujo-git/lynx-assistant
 
 ---
 
-## ▌Insights
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://streak-stats.vercel.app?user=GabrielAraujoGit&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielAraujoGit&theme=tokyonight" height="160"/>
+## Engineering Signals
 
+- Sistemas e automações usados em ambientes reais
+- Código orientado a manutenção e legibilidade
+- Preferência por soluções explícitas e previsíveis
+- Conforto com sistemas legados e ambientes enterprise
+- Foco em impacto prático, não métricas superficiais
 
+---
 
-</div>
+## 🧠 Stack Técnica
 
+### 🔹 Core Backend & Systems
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend%20Engineering-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🤖 IA, NLP & Data Science
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Word%20Embedding-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Word2Vec-4CAF50?style=for-the-badge"/>
+</p>
+
+> Experiência prática com **NLP clássico**, **modelos generativos**, **engenharia de prompt** e **análise exploratória de dados**.
+
+### 📊 Data, Cloud & Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Data-000000?style=for-the-badge"/>
+</p>
+
+### ⚙️ Linguagens & Runtime Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🛠️ Ferramentas & Engenharia
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Integration-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## Filosofia de Desenvolvimento
+
+> Boas soluções são invisíveis — funcionam antes de você perceber que precisava delas.
+
+- Clareza acima de abstração desnecessária  
+- Escalabilidade sem complexidade artificial  
+- Ferramentas que servem pessoas, não processos  
+- Preferência por tecnologias estáveis e bem compreendidas  
+
+---
+
+## Direção Atual
+
+Atualmente interessado em **roles de backend, IA e sistemas distribuídos** com foco em:
+- automação
+- confiabilidade
+- engenharia orientada a longo prazo
+- soluções traceáveis e auditáveis
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILD-FAST-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/THINK-SLOW-1A1A1A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BUILD--FAST-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/THINK--SLOW-1A1A1A?style=for-the-badge"/>
 </p>
