@@ -30,7 +30,7 @@
 
 - Backend-focused Software Engineer with strong automation background  
 - Experience building **production systems**, internal tools and ERP extensions  
-- Preference for **clarity, reliability and boring-but-solid technology**
+- Preference for **clarity, reliability and predictable technology**
 
 ---
 
@@ -78,23 +78,53 @@ https://github.com/gabriel-araujo-git/lynx-assistant
 
 ---
 
-## Stack Técnica
+## 🧠 Stack Técnica
 
-### Core
-- **Python** — automação, ferramentas internas, backend
-- **Backend Engineering** — lógica de negócio, integrações, serviços
-- **Linux** — ambiente de desenvolvimento e execução
+### 🔹 Core Backend & Systems
 
-### Supporting
-- JavaScript / TypeScript
-- Node.js
-- Docker
-- Git
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend%20Engineering-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### Enterprise / Legacy Experience
-- .NET
-- VB.NET
-- Sistemas corporativos e automação interna
+### 🤖 IA, NLP & Data Science
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Word%20Embedding-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Word2Vec-4CAF50?style=for-the-badge"/>
+</p>
+
+> Experiência prática com **NLP clássico**, **modelos generativos**, **engenharia de prompt** e **análise exploratória de dados**.
+
+### 📊 Data, Cloud & Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Data-000000?style=for-the-badge"/>
+</p>
+
+### ⚙️ Linguagens & Runtime Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🛠️ Ferramentas & Engenharia
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Integration-000000?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -111,11 +141,11 @@ https://github.com/gabriel-araujo-git/lynx-assistant
 
 ## Direção Atual
 
-Atualmente interessado em **roles de backend** com foco em:
+Atualmente interessado em **roles de backend, IA e sistemas distribuídos** com foco em:
 - automação
 - confiabilidade
-- sistemas distribuídos
 - engenharia orientada a longo prazo
+- soluções traceáveis e auditáveis
 
 ---
 
