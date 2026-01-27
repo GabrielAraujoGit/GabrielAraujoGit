@@ -254,7 +254,7 @@ Atualmente interessado em **roles de backend, IA e sistemas distribuídos** com 
 ### 📫 Let's Connect
 
 **Interessado em colaborar ou discutir projetos?**  
-Entre em contato através do [LinkedIn](https://linkedin.com/in/gabrielaraujo) ou [Email](mailto:gabriel@example.com)
+Entre em contato através do [LinkedIn](https://linkedin.com/in/) ou [Email](mailto:gabriel@example.com)
 
 <br/>
 
