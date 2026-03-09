@@ -1,3 +1,4 @@
+<!-- HEADER -->
 <div align="center">
   <img src="https://img.shields.io/badge/Automation--First-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend%20Engineering-1A1A1A?style=for-the-badge"/>
@@ -5,7 +6,7 @@
 </div>
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=GABRIEL+ARAUJO;CODE+SYNTHESIZER;DIGITAL+WANDERER;SYSTEM+OPTIMIZER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=GABRIEL+ARAUJO;CODE+SYNTHESIZER;DIGITAL+WANDERER;SYSTEM+OPTIMIZER" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,13 +17,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/gabrielaraujo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/GabrielAraujoGit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:gabriel@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -32,9 +33,10 @@
 
 ```python
 engineer = {
-    "focus": ["Backend Engineering", "Automation", "Systems Design"],
-    "experience": ["Production Systems", "Internal Tools", "ERP Extensions"],
-    "philosophy": "Clarity, Reliability, Predictable Technology"
+    "focus":       ["Backend Engineering", "Automation", "Systems Design"],
+    "experience":  ["Production Systems", "Internal Tools", "ERP Extensions"],
+    "philosophy":  "Clarity, Reliability, Predictable Technology",
+    "open_to":     ["Backend Roles", "AI Systems", "Distributed Systems"],
 }
 ```
 
@@ -47,15 +49,15 @@ em criar soluções que sejam **simples de entender, fáceis de manter e confiá
 
 Trabalho com sistemas usados diariamente, onde:
 
-- ✅ Falhas precisam ser previsíveis  
-- 🔍 Comportamento deve ser explícito  
-- 🛠️ Manutenção importa mais que novidade  
+- ✅ Falhas precisam ser previsíveis
+- 🔍 Comportamento deve ser explícito
+- 🛠️ Manutenção importa mais que novidade
 
 <div align="center">
-  
+
   **Foco atual:** Engenharia de produtividade, automação de fluxos<br/>
   e ferramentas voltadas a desenvolvedores
-  
+
 </div>
 
 ---
@@ -64,6 +66,15 @@ Trabalho com sistemas usados diariamente, onde:
 
 ### **Lynx Assistant**
 > Assistente open source para **transformar comandos em ações inteligentes no desktop**.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arquitetura%20Modular-1A1A1A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plug--and--Play-2A2A2A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -87,9 +98,61 @@ Trabalho com sistemas usados diariamente, onde:
 </table>
 
 <div align="center">
-  
-  **[📂 Ver Repositório →](https://github.com/gabriel-araujo-git/lynx-assistant)**
-  
+
+**[📂 Ver Repositório →](https://github.com/gabriel-araujo-git/lynx-assistant)**
+
+</div>
+
+---
+
+## 🛠️ Stack Técnica
+
+**Linguagens**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-222222?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elixir-2A2A2A?style=for-the-badge&logo=elixir&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Erlang-333333?style=for-the-badge&logo=erlang&logoColor=white"/>
+</div>
+
+<br/>
+
+**Frontend & Backend**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=white"/>
+</div>
+
+<br/>
+
+**Dados & Infra**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-222222?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-2A2A2A?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielAraujoGit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAraujoGit&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAraujoGit&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
 </div>
 
 ---
@@ -118,14 +181,6 @@ Trabalho com sistemas usados diariamente, onde:
 <td><b>Impact Over Metrics</b><br/>Foco em impacto prático, não métricas superficiais</td>
 </tr>
 </table>
-
----
-
-## 🛠️ Stack Técnica
-
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,java,erlang,elixir,docker,kubernetes,postgresql,mongodb,redis,aws,git,github,vscode&perline=8" />
-
 
 ---
 
@@ -167,10 +222,11 @@ Atualmente interessado em **roles de backend, IA e sistemas distribuídos** com 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Automation-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Reliability-1A1A1A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Long--Term%20Engineering-2A2A2A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Traceable%20Solutions-3A3A3A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reliability-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Long--Term%20Engineering-1A1A1A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-2A2A2A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Applied%20AI-333333?style=for-the-badge"/>
 </p>
 
 ---
