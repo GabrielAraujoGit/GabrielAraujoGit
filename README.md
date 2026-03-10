@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
 </div>
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=GABRIEL+ARAUJO;CODE+SYNTHESIZER;DIGITAL+WANDERER;SYSTEM+OPTIMIZER" alt="Typing SVG" />
 </h1>
