@@ -1,0 +1,116 @@
+<svg width="680" height="860" viewBox="0 0 680 860" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="860" fill="#0d1117"/>
+
+  <!-- === FIELD BACKGROUND === -->
+  <g stroke="#1D9E75" fill="none" opacity="0.06">
+    <ellipse cx="340" cy="90" rx="200" ry="70" stroke-dasharray="4 3"/>
+    <ellipse cx="340" cy="90" rx="310" ry="115" stroke-dasharray="3 5" opacity="0.6"/>
+    <path d="M 60 150 Q 200 20 340 90 Q 480 160 620 20" stroke-width="0.8"/>
+    <line x1="50" y1="90" x2="630" y2="90" stroke-width="0.5"/>
+    <line x1="340" y1="10" x2="340" y2="175" stroke-width="0.5"/>
+  </g>
+
+  <!-- === HEADER === -->
+  <!-- wave ψ(x,t) -->
+  <g transform="translate(568, 26)">
+    <path d="M0 28 Q 8 10 16 28 Q 24 46 32 28 Q 40 10 48 28 Q 56 46 64 28 Q 72 10 80 28" stroke="#1D9E75" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.9"/>
+    <path d="M0 36 Q 8 24 16 36 Q 24 48 32 36 Q 40 24 48 36 Q 56 48 64 36 Q 72 24 80 36" stroke="#1D9E75" stroke-width="0.6" fill="none" stroke-linecap="round" opacity="0.3"/>
+    <circle cx="32" cy="28" r="2.5" fill="#1D9E75"/>
+    <line x1="32" y1="8" x2="32" y2="50" stroke="#1D9E75" stroke-width="0.5" stroke-dasharray="2 2" opacity="0.4"/>
+    <text x="36" y="64" font-family="'Courier New', monospace" font-size="11" fill="#1D9E75" opacity="0.55">ψ(x,t)</text>
+  </g>
+  <text x="52" y="82" font-family="Georgia, serif" font-size="50" font-weight="400" fill="#e6edf3">gabriel </text>
+  <text x="310" y="82" font-family="Georgia, serif" font-size="50" font-style="italic" font-weight="400" fill="#1D9E75">araujo</text>
+  <text x="54" y="110" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" letter-spacing="1">backend · automation · systems that hold</text>
+  <line x1="16" y1="126" x2="664" y2="126" stroke="#21262d" stroke-width="0.8"/>
+  <text x="52" y="148" font-family="Georgia, serif" font-size="14" fill="#6e7681">Trabalho na interseção entre abstração e consequência real —</text>
+  <text x="52" y="166" font-family="Georgia, serif" font-size="14" fill="#6e7681">onde uma decisão de design vira comportamento em produção.</text>
+
+  <!-- === DIVIDER === -->
+  <line x1="16" y1="194" x2="664" y2="194" stroke="#161b22" stroke-width="8"/>
+
+  <!-- === AXIOMAS === -->
+  <text x="16" y="220" font-family="'Courier New', monospace" font-size="11" fill="#1D9E75" letter-spacing="2">AXIOMAS DE ENGENHARIA</text>
+  <line x1="16" y1="228" x2="664" y2="228" stroke="#21262d" stroke-width="0.8"/>
+
+  <rect x="16" y="236" width="648" height="44" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="16" y="280" width="648" height="44" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="16" y="324" width="648" height="44" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="16" y="368" width="648" height="44" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="60" y1="236" x2="60" y2="412" stroke="#21262d" stroke-width="0.5"/>
+
+  <text x="28" y="263" font-family="'Courier New', monospace" font-size="12" fill="#1D9E75">I</text>
+  <text x="28" y="307" font-family="'Courier New', monospace" font-size="12" fill="#1D9E75">II</text>
+  <text x="24" y="351" font-family="'Courier New', monospace" font-size="12" fill="#1D9E75">III</text>
+  <text x="26" y="395" font-family="'Courier New', monospace" font-size="12" fill="#1D9E75">IV</text>
+
+  <text x="76" y="258" font-family="Georgia, serif" font-size="15" fill="#c9d1d9">Complexidade que não ganhou o direito de existir</text>
+  <text x="76" y="275" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#6e7681">não existe. — ou não deveria.</text>
+  <text x="76" y="302" font-family="Georgia, serif" font-size="15" fill="#c9d1d9">Código legado tem contexto que nenhum comentário vai capturar.</text>
+  <text x="76" y="319" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#6e7681">Leia com respeito.</text>
+  <text x="76" y="346" font-family="Georgia, serif" font-size="15" fill="#c9d1d9">Solução elegante é a que você não percebe que precisava</text>
+  <text x="76" y="363" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#6e7681">até ela parar de funcionar. — ou seja, nunca.</text>
+  <text x="76" y="390" font-family="Georgia, serif" font-size="15" fill="#c9d1d9">A maioria dos devs resolve o problema pedido.</text>
+  <text x="76" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#6e7681">Prefiro entender qual deveria ter sido pedido.</text>
+
+  <!-- === DIVIDER === -->
+  <line x1="16" y1="430" x2="664" y2="430" stroke="#161b22" stroke-width="8"/>
+
+  <!-- === STACK === -->
+  <text x="16" y="456" font-family="'Courier New', monospace" font-size="11" fill="#1D9E75" letter-spacing="2">STACK</text>
+  <line x1="16" y1="464" x2="664" y2="464" stroke="#21262d" stroke-width="0.8"/>
+
+  <!-- row 1 -->
+  <rect x="16"  y="472" width="216" height="62" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="233" y="472" width="216" height="62" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="450" y="472" width="214" height="62" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+  <!-- row 2 -->
+  <rect x="16"  y="535" width="216" height="62" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="233" y="535" width="216" height="62" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="450" y="535" width="214" height="62" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+
+  <text x="30"  y="500" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#e6edf3">Python</text>
+  <text x="30"  y="520" font-family="'Courier New', monospace" font-size="11" fill="#6e7681">automação, backends, scripts</text>
+  <text x="247" y="500" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#e6edf3">TypeScript</text>
+  <text x="247" y="520" font-family="'Courier New', monospace" font-size="11" fill="#6e7681">node, apis, ferramentas</text>
+  <text x="464" y="500" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#e6edf3">Elixir</text>
+  <text x="464" y="520" font-family="'Courier New', monospace" font-size="11" fill="#6e7681">quando concorrência importa</text>
+
+  <text x="30"  y="563" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#e6edf3">PostgreSQL</text>
+  <text x="30"  y="583" font-family="'Courier New', monospace" font-size="11" fill="#6e7681">dados que precisam durar</text>
+  <text x="247" y="563" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#e6edf3">Docker / k8s</text>
+  <text x="247" y="583" font-family="'Courier New', monospace" font-size="11" fill="#6e7681">infra reproduzível</text>
+  <text x="464" y="563" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#e6edf3">Redis</text>
+  <text x="464" y="583" font-family="'Courier New', monospace" font-size="11" fill="#6e7681">cache, filas, pub/sub</text>
+
+  <!-- === DIVIDER === -->
+  <line x1="16" y1="618" x2="664" y2="618" stroke="#161b22" stroke-width="8"/>
+
+  <!-- === PROJETO === -->
+  <text x="16" y="644" font-family="'Courier New', monospace" font-size="11" fill="#1D9E75" letter-spacing="2">PROJETO EM DESTAQUE</text>
+  <line x1="16" y1="652" x2="664" y2="652" stroke="#21262d" stroke-width="0.8"/>
+
+  <rect x="16" y="660" width="648" height="120" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+  <text x="30" y="692" font-family="Georgia, serif" font-size="22" font-weight="500" fill="#e6edf3">Lynx Assistant</text>
+  <!-- chain decoration -->
+  <circle cx="296" cy="684" r="5" fill="none" stroke="#1D9E75" stroke-width="1"/>
+  <line x1="301" y1="684" x2="314" y2="684" stroke="#1D9E75" stroke-width="1"/>
+  <circle cx="319" cy="684" r="5" fill="none" stroke="#1D9E75" stroke-width="1"/>
+  <line x1="324" y1="684" x2="337" y2="684" stroke="#1D9E75" stroke-width="1"/>
+  <circle cx="342" cy="684" r="5" fill="none" stroke="#1D9E75" stroke-width="1"/>
+  <line x1="347" y1="684" x2="358" y2="684" stroke="#1D9E75" stroke-width="1"/>
+  <circle cx="361" cy="684" r="2" fill="#1D9E75"/>
+
+  <text x="30" y="718" font-family="Georgia, serif" font-size="14" fill="#8b949e">Assistente de desktop open source. Arquitetura modular — Engine separada da UI,</text>
+  <text x="30" y="736" font-family="Georgia, serif" font-size="14" fill="#8b949e">comandos extensíveis. Feito pra ser mantido, não pra parecer bonito no README.</text>
+  <text x="30" y="766" font-family="'Courier New', monospace" font-size="12" fill="#1D9E75">github.com/gabriel-araujo-git/lynx-assistant →</text>
+
+  <!-- === DIVIDER === -->
+  <line x1="16" y1="802" x2="664" y2="802" stroke="#161b22" stroke-width="8"/>
+
+  <!-- === FOOTER === -->
+  <text x="16" y="828" font-family="'Courier New', monospace" font-size="11" fill="#1D9E75" letter-spacing="2">DIREÇÃO ATUAL</text>
+  <line x1="16" y1="836" x2="664" y2="836" stroke="#21262d" stroke-width="0.8"/>
+  <text x="16" y="851" font-family="Georgia, serif" font-size="14" fill="#8b949e">Interessado em backend, IA aplicada e sistemas distribuídos —</text>
+  <text x="16" y="870" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#6e7681">especificamente coisas que têm consequências reais quando dão errado.</text>
+</svg>
