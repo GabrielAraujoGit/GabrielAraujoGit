@@ -1,0 +1,23 @@
+<svg width="680" height="180" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="180" fill="#0d1117"/>
+  <g stroke="#1D9E75" fill="none" opacity="0.07">
+    <ellipse cx="340" cy="90" rx="200" ry="75" stroke-dasharray="4 3"/>
+    <ellipse cx="340" cy="90" rx="310" ry="120" stroke-dasharray="3 5" opacity="0.6"/>
+    <path d="M 60 140 Q 200 30 340 90 Q 480 150 620 30" stroke-width="0.8"/>
+    <line x1="50" y1="90" x2="630" y2="90" stroke-width="0.5"/>
+    <line x1="340" y1="10" x2="340" y2="170" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(570, 28)">
+    <path d="M0 28 Q 8 10 16 28 Q 24 46 32 28 Q 40 10 48 28 Q 56 46 64 28 Q 72 10 80 28" stroke="#1D9E75" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.9"/>
+    <path d="M0 36 Q 8 24 16 36 Q 24 48 32 36 Q 40 24 48 36 Q 56 48 64 36 Q 72 24 80 36" stroke="#1D9E75" stroke-width="0.6" fill="none" stroke-linecap="round" opacity="0.3"/>
+    <circle cx="32" cy="28" r="2.5" fill="#1D9E75"/>
+    <line x1="32" y1="8" x2="32" y2="50" stroke="#1D9E75" stroke-width="0.5" stroke-dasharray="2 2" opacity="0.4"/>
+    <text x="36" y="64" font-family="'Courier New', monospace" font-size="11" fill="#1D9E75" opacity="0.55">ψ(x,t)</text>
+  </g>
+  <text x="52" y="80" font-family="Georgia, serif" font-size="50" font-weight="400" fill="#e6edf3">gabriel </text>
+  <text x="308" y="80" font-family="Georgia, serif" font-size="50" font-style="italic" font-weight="400" fill="#1D9E75">araujo</text>
+  <text x="54" y="108" font-family="'Courier New', monospace" font-size="13" fill="#8b949e" letter-spacing="1">backend · automation · systems that hold</text>
+  <line x1="52" y1="124" x2="628" y2="124" stroke="#21262d" stroke-width="0.8"/>
+  <text x="52" y="146" font-family="Georgia, serif" font-size="14" fill="#6e7681">Trabalho na interseção entre abstração e consequência real —</text>
+  <text x="52" y="164" font-family="Georgia, serif" font-size="14" fill="#6e7681">onde uma decisão de design vira comportamento em produção.</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="680" height="228" viewBox="0 0 680 228" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="228" fill="#0d1117"/>
+  <text x="16" y="28" font-family="'Courier New', monospace" font-size="11" fill="#1D9E75" letter-spacing="2">AXIOMAS DE ENGENHARIA</text>
+  <line x1="16" y1="36" x2="664" y2="36" stroke="#21262d" stroke-width="0.8"/>
+  <!-- row borders -->
+  <rect x="16" y="44" width="648" height="44" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="16" y="88" width="648" height="44" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="16" y="132" width="648" height="44" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="16" y="176" width="648" height="44" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  <!-- num column border -->
+  <line x1="60" y1="44" x2="60" y2="220" stroke="#21262d" stroke-width="0.5"/>
+  <!-- nums -->
+  <text x="28" y="71" font-family="'Courier New', monospace" font-size="12" fill="#1D9E75">I</text>
+  <text x="28" y="115" font-family="'Courier New', monospace" font-size="12" fill="#1D9E75">II</text>
+  <text x="24" y="159" font-family="'Courier New', monospace" font-size="12" fill="#1D9E75">III</text>
+  <text x="26" y="203" font-family="'Courier New', monospace" font-size="12" fill="#1D9E75">IV</text>
+  <!-- texts -->
+  <text x="76" y="66" font-family="Georgia, serif" font-size="15" fill="#c9d1d9">Complexidade que não ganhou o direito de existir</text>
+  <text x="76" y="83" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#6e7681">não existe. — ou não deveria.</text>
+  <text x="76" y="110" font-family="Georgia, serif" font-size="15" fill="#c9d1d9">Código legado tem contexto que nenhum comentário</text>
+  <text x="76" y="127" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#6e7681">vai capturar. Leia com respeito.</text>
+  <text x="76" y="154" font-family="Georgia, serif" font-size="15" fill="#c9d1d9">Solução elegante é a que você não percebe que precisava</text>
+  <text x="76" y="171" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#6e7681">até ela parar de funcionar. — ou seja, nunca.</text>
+  <text x="76" y="198" font-family="Georgia, serif" font-size="15" fill="#c9d1d9">A maioria dos devs resolve o problema pedido.</text>
+  <text x="76" y="215" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#6e7681">Prefiro entender qual deveria ter sido pedido.</text>
+</svg>
