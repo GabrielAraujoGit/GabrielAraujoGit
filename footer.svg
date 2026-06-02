@@ -1,0 +1,7 @@
+<svg width="680" height="80" viewBox="0 0 680 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="80" fill="#0d1117"/>
+  <text x="16" y="28" font-family="'Courier New', monospace" font-size="11" fill="#1D9E75" letter-spacing="2">DIREÇÃO ATUAL</text>
+  <line x1="16" y1="36" x2="664" y2="36" stroke="#21262d" stroke-width="0.8"/>
+  <text x="16" y="57" font-family="Georgia, serif" font-size="14" fill="#8b949e">Interessado em backend, IA aplicada e sistemas distribuídos —</text>
+  <text x="16" y="74" font-family="Georgia, serif" font-size="14" fill="#6e7681" font-style="italic">especificamente coisas que têm consequências reais quando dão errado.</text>
+</svg>
