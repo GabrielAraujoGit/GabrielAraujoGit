@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Elixir+Software+Engineer+%7C+AI+Enthusiast&theme=shadow&color=%2308fd45&particleColor=%23000000&background=%230d1117&repeat=true)
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=%3E%20Elixir%20Software%20Engineer%20%7C%20AI%20Enthusiast%20---&theme=shadow&color=%2300ff1e&particleColor=%23000000&background=%230d1117)
